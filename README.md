@@ -85,4 +85,4 @@ Reach out to me at one of the following places!
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
 - Copyright MFY IT 2017 © 
-[![N|MFYIT](https://contrib.azurewebsites.net/mfyit_card.png)](http://mfyit.azurewebsites.net) 
+
